@@ -62,7 +62,7 @@ const spaces = [
   {
     title: "Ramen Area",
     description: "Area khusus untuk menikmati ramen, disajikan hangat dan fresh. Cocok untuk makan cepat, takeaway, atau dinikmati langsung di edlewiss coffee dengan suasana santai.",
-    image: "/kdm.png",
+    image: "/",
     capacity: "8-12 people",
   },
 ];

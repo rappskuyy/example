@@ -32,7 +32,7 @@ export default function Footer() {
             <a href="#home" className="flex items-center gap-2 mb-4 sm:mb-6">
               <Coffee className="w-6 h-6 sm:w-8 sm:h-8 text-coksu" />
               <span className="font-serif text-xl sm:text-2xl font-semibold">
-                Rairaka Resto
+                Warjep
               </span>
             </a>
             <p className="text-white/70 leading-relaxed mb-4 sm:mb-6 max-w-sm text-sm sm:text-base">
@@ -42,7 +42,7 @@ export default function Footer() {
             {/* Social Links */}
             <div className="flex gap-3 sm:gap-4">
               <a
-                href="https://instagram.com/rairakaresto"
+                href="https://instagram.com/example"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-coksu transition-all duration-300"
@@ -50,7 +50,7 @@ export default function Footer() {
                 <Instagram className="w-4 h-4 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="https://wa.me/6281389136566"
+                href="https://wa.me/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-coksu transition-all duration-300"
@@ -58,7 +58,7 @@ export default function Footer() {
                 <MessageCircle className="w-4 h-4 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="mailto:rairakaresto@gmail.com"
+                href="mailto:example@gmail.com"
                 className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-coksu transition-all duration-300"
               >
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5" />

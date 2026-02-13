@@ -39,8 +39,8 @@ export default function Navbar() {
   className="flex items-center gap-1.5 sm:gap-2 group"
 >
   <img
-    src="rairaka.png"
-    alt="Rairaka Resto Logo"
+    src=""
+    alt="Warjep Logo"
     className="w-6 h-6 sm:w-8 sm:h-8 object-contain transition-transform duration-300 group-hover:scale-105"
   />
 
@@ -49,7 +49,7 @@ export default function Navbar() {
       isScrolled ? "text-brown-dark" : "text-white"
     }`}
   >
-    Rairaka Resto
+    Warjep
   </span>
 </a>
 
